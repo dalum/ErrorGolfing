@@ -1,0 +1,7 @@
+name = "ErrorGolfing"
+uuid = "4f2cb585-fab9-4b21-a7ed-8a91df74c54c"
+authors = ["Sakse <dalum@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
