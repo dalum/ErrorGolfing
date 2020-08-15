@@ -1,6 +1,6 @@
 # ErrorGolfing.jl
 
-Make the tests pass with the least amount of code.
+Make the tests pass with the least amount of code.  This is a code golfing challenge to familiarise yourself with the built-in errors in Julia listed in https://docs.julialang.org/en/v1/manual/control-flow/#Built-in-Exceptions-1.
 
 ## Rules
 
