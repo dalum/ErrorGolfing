@@ -33,6 +33,6 @@ using Distributed
     @test_throws StringIndexError ErrorGolfing.throw_string_index_error()
 end
 
-@info "Your score is: $(sum(f->sum(length,readlines(f)),readdir(joinpath(@__DIR__,"..","src");join=true)))"
+@info "Score: $(sum(f->sum(length,readlines(f)),readdir(joinpath(@__DIR__,"..","src");join=true)))"
 
 end # module
