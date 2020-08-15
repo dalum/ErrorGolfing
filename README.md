@@ -6,6 +6,6 @@ Make the tests pass with the least amount of code.
 
 1. Clone/fork this repository
 2. Make changes to the files in `src/`
-3. Run the tests.  If they fail, `@goto 2`.
+3. Run the tests, if they fail, `@goto 2`
 4. Get your score
 5. Share your results with the rest of the world!
